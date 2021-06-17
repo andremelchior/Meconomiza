@@ -1,5 +1,4 @@
- ##Projeto Meconomiza
-## 
+## Projeto Meconomiza
 
 As pessoas normalmente encontram dificuldades ao fazer compras,
 gastando valores não prograados ou até esquecendo de algo. O site
