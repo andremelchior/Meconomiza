@@ -1,6 +1,6 @@
 ## Projeto Meconomiza
 
-<p>
+<p style="text-align: justify;">
 As pessoas normalmente encontram dificuldades ao fazer compras,
 gastando valores não prograados ou até esquecendo de algo. O site
 facilitará a administração desses setores, também armazenando os
